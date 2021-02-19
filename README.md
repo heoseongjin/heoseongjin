@@ -1,7 +1,7 @@
 # Hello, HEO 🙃
 
 
-#### 🛠My Stacks
+#### 🛠 My Stacks
 
 > Stacks I am currently Learning
 
