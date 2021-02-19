@@ -12,6 +12,6 @@
 	<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/></a>
 	<br>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black"/>
+	<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=black"/>
 </p>
 
