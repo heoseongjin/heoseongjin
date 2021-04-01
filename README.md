@@ -1,7 +1,7 @@
 # Hello, HEO 🙃
 
 
-#### My Stacks
+#### iOS Developer
 
 > Stacks I am currently Learning
 
