@@ -20,3 +20,7 @@
 
 ## Present
 - [[SyncSwift 2022](https://syncswift2022.netlify.app/)] [Xcode Breakpoint Tips (나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법)](https://www.youtube.com/watch?v=K7mH_o1PBS0&t)
+
+
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheoseongjin&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
