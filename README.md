@@ -20,7 +20,7 @@
 
 ## Presentation
 - [[SyncSwift 2022](https://syncswift2022.netlify.app/)] [Xcode Breakpoint Tips (나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법)](https://www.youtube.com/watch?v=K7mH_o1PBS0&t)
-- [[let us: Go! 2023 Spring](https://let-us-go-2023-spring.vercel.app/)] CoreBluetooth Tutorial (CoreBluetooth로 1:1 채팅앱 만들어보기)
+- [[let us: Go! 2023 Spring](https://let-us-go-2023-spring.vercel.app/)] [CoreBluetooth Tutorial (CoreBluetooth로 1:1 채팅앱 만들어보기)](https://youtu.be/p1KoJtqxXBE)
 
 <br>
 
