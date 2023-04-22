@@ -1,9 +1,7 @@
-# Hello, HEO 🙃
-
+# 허성진입니다 🙃
+> 닉네임 **Lucas**로도 활동합니다
 
 #### iOS Developer
-
-> Want to be an Organized Developer
 
 <p>
 	<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
@@ -25,3 +23,4 @@
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheoseongjin&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
